@@ -1,0 +1,190 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Wireless Bluetooth Headphones",
+      "description": "High-quality sound with noise cancellation and 20-hour battery life.",
+      "price": 1999,
+      "discountPercentage": 10,
+      "rating": 4.5,
+      "stock": 25,
+      "brand": "Sony",
+      "category": "Electronics",
+      "thumbnail": "wirelessBT.jpg",
+      "images": [
+        "https://via.placeholder.com/200",
+        "https://via.placeholder.com/250"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Gaming Laptop",
+      "description": "Powerful gaming laptop with RTX 3060, 16GB RAM, and 1TB SSD.",
+      "price": 74999,
+      "discountPercentage": 8,
+      "rating": 4.8,
+      "stock": 10,
+      "brand": "Dell",
+      "category": "Computers",
+      "thumbnail": "GamingLaptop.jpg",
+      "images": [
+        "https://via.placeholder.com/200",
+        "https://via.placeholder.com/250"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Smartphone 5G",
+      "description": "Latest 5G smartphone with AMOLED display and 108MP camera.",
+      "price": 29999,
+      "discountPercentage": 12,
+      "rating": 4.6,
+      "stock": 30,
+      "brand": "Samsung",
+      "category": "Mobiles",
+      "thumbnail": "SmartPhone5gjpg.jpg",
+      "images": [
+        "https://via.placeholder.com/200",
+        "https://via.placeholder.com/250"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "LED Smart TV 55 Inch",
+      "description": "4K Ultra HD Smart TV with Dolby Vision and HDR10 support.",
+      "price": 45999,
+      "discountPercentage": 9,
+      "rating": 4.7,
+      "stock": 15,
+      "brand": "LG",
+      "category": "Home Appliances",
+      "thumbnail": "LED-tv.jpg",
+      "images": [
+        "https://via.placeholder.com/200",
+        "https://via.placeholder.com/250"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Mechanical Keyboard",
+      "description": "RGB backlit mechanical keyboard with blue switches.",
+      "price": 4999,
+      "discountPercentage": 7,
+      "rating": 4.4,
+      "stock": 50,
+      "brand": "Corsair",
+      "category": "Accessories",
+      "thumbnail": "Keyboard.jpg",
+      "images": [
+        "https://via.placeholder.com/200",
+        "https://via.placeholder.com/250"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Smartwatch with Heart Rate Monitor",
+      "description": "Fitness tracking smartwatch with heart rate and SpO2 monitoring.",
+      "price": 6999,
+      "discountPercentage": 11,
+      "rating": 4.3,
+      "stock": 40,
+      "brand": "Apple",
+      "category": "Wearable",
+      "thumbnail": "Moniter.jpg",
+      "images": [
+        "https://via.placeholder.com/200",
+        "https://via.placeholder.com/250"
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Portable Bluetooth Speaker",
+      "description": "Compact and waterproof speaker with deep bass.",
+      "price": 3499,
+      "discountPercentage": 10,
+      "rating": 4.5,
+      "stock": 20,
+      "brand": "JBL",
+      "category": "Audio",
+      "thumbnail": "speaker.jpg",
+      "images": [
+        "https://via.placeholder.com/200",
+        "https://via.placeholder.com/250"
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Gaming Mouse",
+      "description": "Ergonomic gaming mouse with 12 customizable buttons.",
+      "price": 2499,
+      "discountPercentage": 8,
+      "rating": 4.6,
+      "stock": 35,
+      "brand": "Logitech",
+      "category": "Accessories",
+      "thumbnail": "mouse.jpg",
+      "images": [
+        "https://via.placeholder.com/200",
+        "https://via.placeholder.com/250"
+      ]
+    },
+    {
+      "id": "9",
+      "title": "External Hard Drive 1TB",
+      "description": "High-speed external HDD with USB 3.0 support.",
+      "price": 5499,
+      "discountPercentage": 6,
+      "rating": 4.7,
+      "stock": 12,
+      "brand": "Seagate",
+      "category": "Storage",
+      "thumbnail": "HardDrive.jpg",
+      "images": [
+        "https://via.placeholder.com/200",
+        "https://via.placeholder.com/250"
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Air Purifier",
+      "description": "HEPA filter air purifier for clean indoor air.",
+      "price": 8999,
+      "discountPercentage": 5,
+      "rating": 4.2,
+      "stock": 18,
+      "brand": "Dyson",
+      "category": "Home Appliances",
+      "thumbnail": "airPurejpg.jpg",
+      "images": [
+        "https://via.placeholder.com/200",
+        "https://via.placeholder.com/250"
+      ]
+    }
+  ],
+  "cart": [
+    {
+      "id": "1",
+      "title": "Wireless Bluetooth Headphones",
+      "brand": "Sony",
+      "thumbnail": "wirelessBT.jpg",
+      "price": 1999,
+      "quantity": 3
+    },
+    {
+      "id": "2",
+      "title": "Gaming Laptop",
+      "brand": "Dell",
+      "thumbnail": "GamingLaptop.jpg",
+      "price": 74999,
+      "quantity": 2
+    },
+    {
+      "id": "3",
+      "title": "Smartphone 5G",
+      "brand": "Samsung",
+      "thumbnail": "SmartPhone5gjpg.jpg",
+      "price": 29999,
+      "quantity": 3
+    }
+  ]
+}
