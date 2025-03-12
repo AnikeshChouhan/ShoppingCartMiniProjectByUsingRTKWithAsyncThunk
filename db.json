@@ -155,10 +155,7 @@
       "brand": "Dyson",
       "category": "Home Appliances",
       "thumbnail": "airPurejpg.jpg",
-      "images": [
-        "https://via.placeholder.com/200",
-        "https://via.placeholder.com/250"
-      ]
+      "images": []
     }
   ],
   "cart": [
@@ -168,23 +165,15 @@
       "brand": "Sony",
       "thumbnail": "wirelessBT.jpg",
       "price": 1999,
-      "quantity": 3
+      "quantity": 1
     },
     {
-      "id": "2",
-      "title": "Gaming Laptop",
-      "brand": "Dell",
-      "thumbnail": "GamingLaptop.jpg",
-      "price": 74999,
-      "quantity": 2
-    },
-    {
-      "id": "3",
-      "title": "Smartphone 5G",
-      "brand": "Samsung",
-      "thumbnail": "SmartPhone5gjpg.jpg",
-      "price": 29999,
-      "quantity": 3
+      "id": "9",
+      "title": "External Hard Drive 1TB",
+      "brand": "Seagate",
+      "thumbnail": "HardDrive.jpg",
+      "price": 5499,
+      "quantity": 1
     }
   ]
 }
